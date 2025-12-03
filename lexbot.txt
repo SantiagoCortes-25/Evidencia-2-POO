@@ -1,0 +1,1 @@
+LexBot es una mini app diseñada para apoyar a personas con dislexia a mejorar sus habilidades de lectura y escritura mediante ejercicios interactivos. Nuestra mision es ofrecer una herramienta educativa accesible y dinamica que refuerce la confianza del usuario, fomente el aprendizaje continuo y promueva estrategias adaptadas al perfil dislexico.

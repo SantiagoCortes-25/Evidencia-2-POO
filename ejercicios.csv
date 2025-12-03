@@ -1,0 +1,211 @@
+id,type,difficulty,question,correctAnswer,options
+1,Lectura,Basico,Mesa,Mesa,Meza|Mesa
+2,Lectura,Basico,poco,poco,poco|poko
+3,Lectura,Basico,Pelo,Pelo,Pelo|Palo
+4,Lectura,Basico,para,para,bara|para
+5,Lectura,Basico,casa,casa,casa|kasa
+6,Lectura,Basico,vaso,vaso,vaso|baso
+7,Lectura,Basico,gato,gato,qato|gato
+8,Lectura,Basico,queso,queso,queso|keso
+9,Lectura,Basico,dado,dado,bado|dado
+10,Lectura,Basico,pato,pato,pato|bato
+11,Lectura,Intermedio,caballo,caballo,caballo|kavallo
+12,Lectura,Intermedio,ventana,ventana,bentana|ventana
+13,Lectura,Intermedio,zapato,zapato,zapato|sabato
+14,Lectura,Intermedio,guitarra,guitarra,qitarra|guitarra
+15,Lectura,Intermedio,conejo,conejo,conejo|konejo
+16,Lectura,Intermedio,ballena,ballena,ballena|bayena
+17,Lectura,Intermedio,jirafa,jirafa,jirafa|hirafa
+18,Lectura,Intermedio,dinosaurio,dinosaurio,dinosaurio|binosauro
+19,Lectura,Intermedio,elefante,elefante,elefante|hefante
+20,Lectura,Intermedio,gallina,gallina,gaina|gallina
+21,Lectura,Avanzado,murcielago,murcielago,murcielago|mursielago
+22,Lectura,Avanzado,arquitectura,arquitectura,arkitectura|arquitectura
+23,Lectura,Avanzado,psicologia,psicologia,sicologia|psicologia
+24,Lectura,Avanzado,bibliografia,bibliografia,bibliografia|vivliografia
+25,Lectura,Avanzado,quirurgico,quirurgico,kirurjico|quirurgico
+26,Lectura,Avanzado,excepcion,excepcion,esepcion|excepcion
+27,Lectura,Avanzado,existencia,existencia,esistensia|existencia
+28,Lectura,Avanzado,hexagonal,hexagonal,hexagonal|exagonal
+29,Lectura,Avanzado,vulnerabilidad,vulnerabilidad,bulneravilidad|vulnerabilidad
+30,Lectura,Avanzado,exhaustivo,exhaustivo,esaustibo|exhaustivo
+31,Escritura,Basico,_aton,r,raton
+32,Escritura,Basico,perr_,o,perro
+33,Escritura,Basico,_arro,j,jarro
+34,Escritura,Basico,ca_a,s,casa
+35,Escritura,Basico,_ente,g,gente
+36,Escritura,Basico,sol_,o,solo
+37,Escritura,Basico,_oma,t,toma
+38,Escritura,Basico,vi_a,d,vida
+39,Escritura,Basico,ma_o,n,mano
+40,Escritura,Basico,_uego,j,juego
+41,Escritura,Basico,_oma,l,loma
+42,Escritura,Basico,_opa,r,ropa
+43,Escritura,Basico,_una,l,luna
+44,Escritura,Basico,_asa,p,pasa
+45,Escritura,Basico,_ona,z,zona
+46,Escritura,Basico,_ala,s,sala
+47,Escritura,Basico,_ama,c,cama
+48,Escritura,Basico,_odo,t,todo
+49,Escritura,Basico,_ino,v,vino
+50,Escritura,Basico,_aso,p,paso
+51,Escritura,Intermedio,_ariable,v,variable
+52,Escritura,Intermedio,caba_o,ll,caballo
+53,Escritura,Intermedio,_uente,p,puente
+54,Escritura,Intermedio,escri_ir,b,escribir
+55,Escritura,Intermedio,hermo_o,s,hermoso
+56,Escritura,Intermedio,_avor,f,favor
+57,Escritura,Intermedio,compa_ero,n,companero
+58,Escritura,Intermedio,traba_o,j,trabajo
+59,Escritura,Intermedio,conse_o,j,consejo
+60,Escritura,Intermedio,mensa_e,j,mensaje
+61,Escritura,Intermedio,cora_on,z,corazon
+62,Escritura,Intermedio,calaba_a,z,calabaza
+63,Escritura,Intermedio,cabe_a,z,cabeza
+64,Escritura,Intermedio,cere_a,z,cereza
+65,Escritura,Intermedio,rique_a,z,riqueza
+66,Escritura,Intermedio,for_aleza,t,fortaleza
+67,Escritura,Intermedio,naturale_a,z,naturaleza
+68,Escritura,Intermedio,cer_eza,v,cerveza
+69,Escritura,Intermedio,pobla_ion,c,poblacion
+70,Escritura,Intermedio,informa_ion,c,informacion
+71,Escritura,Avanzado,e_celente,x,excelente
+72,Escritura,Avanzado,_sicologia,p,psicologia
+73,Escritura,Avanzado,ar_uitectura,q,arquitectura
+74,Escritura,Avanzado,e_cepto,x,excepto
+75,Escritura,Avanzado,halla_go,z,hallazgo
+76,Escritura,Avanzado,bibliote_a,c,biblioteca
+77,Escritura,Avanzado,adquiri_,r,adquirir
+78,Escritura,Avanzado,descri_ir,b,describir
+79,Escritura,Avanzado,prescri_ir,b,prescribir
+80,Escritura,Avanzado,suscri_ir,b,suscribir
+81,Escritura,Avanzado,inscri_ir,b,inscribir
+82,Escritura,Avanzado,transcri_ir,b,transcribir
+83,Escritura,Avanzado,prohi_e,b,prohibe
+84,Escritura,Avanzado,exhi_ir,b,exhibir
+85,Escritura,Avanzado,per_i_ir,c|b,percibir
+86,Escritura,Avanzado,reci_ir,b,recibir
+87,Escritura,Avanzado,conce_ir,b,concebir
+88,Escritura,Avanzado,susce_tible,p,susceptible
+89,Escritura,Avanzado,e_hausto,x,exhausto
+90,Escritura,Avanzado,e_hortar,x,exhortar
+91,Comprension,Basico,Que animal ladra?,perro,perro|gato|pajaro
+92,Comprension,Basico,De que color es el cielo?,azul,azul|verde|rojo
+93,Comprension,Basico,Cuantas patas tiene un perro?,4,2|4|6
+94,Comprension,Basico,Que fruta es amarilla?,platano,manzana|platano|uva
+95,Comprension,Basico,Donde viven los peces?,agua,tierra|agua|aire
+96,Comprension,Basico,Con que escribimos?,lapiz,lapiz|cuchara|martillo
+97,Comprension,Basico,�Qué comemos en el desayuno?,cereal,cereal|pizza|sopa
+98,Comprension,Basico,�Cuántos dedos tiene una mano?,5,3|5|10
+99,Comprension,Basico,�Qué animal hace 'miau'?,gato,perro|gato|vaca
+100,Comprension,Basico,�En qué estación hace frío?,invierno,verano|invierno|primavera
+101,Comprension,Intermedio,El gato está SOBRE la mesa. �Dónde está el gato?,arriba,abajo|arriba|dentro
+102,Comprension,Intermedio,María tiene 3 manzanas y Juan le da 2 más. �Cuántas tiene?,5,4|5|6
+103,Comprension,Intermedio,Si hoy es lunes �qué día fue ayer?,domingo,martes|domingo|sábado
+104,Comprension,Intermedio,�Cuál es el antónimo de 'grande'?,pequeño,enorme|pequeño|gigante
+105,Comprension,Intermedio,�Qué palabra es un verbo?,correr,mesa|correr|azul
+106,Comprension,Intermedio,�Cuál palabra está mal escrita?,jirafa,casa|gato|jirafa
+107,Comprension,Intermedio,�Qué oración tiene sentido?,El perro ladra,Ladra el perro|El perro vuela|El perro nada
+108,Comprension,Intermedio,�Cuál es el plural de 'luz'?,luces,luzes|luces|luzs
+109,Comprension,Intermedio,�Qué significa 'rápido'?,veloz,lento|veloz|quieto
+110,Comprension,Intermedio,�Cuál palabra es aguda?,café,mesa|árbol|café
+111,Comprension,Avanzado,Juan es más alto que Pedro. Pedro es más alto que Luis. �Quién es el más bajo?,Luis,Juan|Pedro|Luis
+112,Comprension,Avanzado,Si 'libro' es a 'leer' entonces 'lápiz' es a...,escribir,comer|escribir|dormir
+113,Comprension,Avanzado,�Qué figura retórica es 'Sus ojos eran dos luceros'?,metáfora,símil|metáfora|hipérbole
+114,Comprension,Avanzado,�Cuál es el sinónimo de 'efímero'?,pasajero,eterno|pasajero|permanente
+115,Comprension,Avanzado,�Qué tipo de palabra es 'rápidamente'?,adverbio,sustantivo|adverbio|adjetivo
+116,Comprension,Avanzado,�Cuál oración usa correctamente la coma?,Hoy lunes voy,Hoy lunes voy|Hoy lunes, voy|Hoy, lunes voy
+117,Comprension,Avanzado,�Qué significa 'diligente'?,cuidadoso,descuidado|cuidadoso|lento
+118,Comprension,Avanzado,�Cuál es el participio de 'escribir'?,escrito,escribido|escrito|escribí
+119,Comprension,Avanzado,�Qué es un palíndromo?,palabra que se lee igual al revés,palabra larga|palabra que se lee igual al revés|palabra difícil
+120,Comprension,Avanzado,�Cuál palabra tiene diptongo?,ciudad,sol|ciudad|mar
+121,Lectura,Basico,libro,libro,libro|livro
+122,Lectura,Basico,silla,silla,siya|silla
+123,Lectura,Basico,papel,papel,papel|bapel
+124,Lectura,Basico,niño,niño,niño|ninyo
+125,Lectura,Basico,día,día,dia|diya
+126,Lectura,Basico,sol,sol,sol|zol
+127,Lectura,Basico,flor,flor,flor|flor
+128,Lectura,Basico,amor,amor,amor|hamor
+129,Lectura,Basico,mar,mar,mar|nar
+130,Lectura,Basico,luz,luz,lus|luz
+131,Lectura,Intermedio,amarillo,amarillo,amarillo|amarilo
+132,Lectura,Intermedio,maestro,maestro,maestro|haestro
+133,Lectura,Intermedio,camino,camino,camino|kamino
+134,Lectura,Intermedio,zapato,zapato,zapato|sabato
+135,Lectura,Intermedio,brazo,brazo,braso|brazo
+136,Lectura,Intermedio,estrella,estrella,estrella|estreya
+137,Lectura,Intermedio,hermano,hermano,ermano|hermano
+138,Lectura,Intermedio,bosque,bosque,bosque|vosque
+139,Lectura,Intermedio,dulce,dulce,dulse|dulce
+140,Lectura,Intermedio,verde,verde,verde|berde
+141,Lectura,Avanzado,extraordinario,extraordinario,estraordinario|extraordinario
+142,Lectura,Avanzado,conseguir,conseguir,conseguir|konseguir
+143,Lectura,Avanzado,exquisito,exquisito,eskisito|exquisito
+144,Lectura,Avanzado,genealogia,genealogia,jenealogia|genealogia
+145,Lectura,Avanzado,perspectiva,perspectiva,perspectiba|perspectiva
+146,Lectura,Avanzado,whisky,whisky,wisky|whisky
+147,Lectura,Avanzado,jerarquia,jerarquia,herarquia|jerarquia
+148,Lectura,Avanzado,consciencia,consciencia,consiencia|consciencia
+149,Lectura,Avanzado,exuberante,exuberante,esuberante|exuberante
+150,Lectura,Avanzado,adyacente,adyacente,adyasente|adyacente
+151,Escritura,Basico,_olor,c,color
+152,Escritura,Basico,_ente,d,dente
+153,Escritura,Basico,_ucha,d,ducha
+154,Escritura,Basico,_ino,p,pino
+155,Escritura,Basico,_umo,h,humo
+156,Escritura,Basico,_oca,b,boca
+157,Escritura,Basico,_ola,h,hola
+158,Escritura,Basico,_uevo,h,huevo
+159,Escritura,Basico,_oda,m,moda
+160,Escritura,Basico,_ino,n,nino
+161,Escritura,Intermedio,_uente,f,fuente
+162,Escritura,Intermedio,estre_a,ll,estrella
+163,Escritura,Intermedio,_amilia,f,familia
+164,Escritura,Intermedio,a_ul,z,azul
+165,Escritura,Intermedio,_uerte,f,fuerte
+166,Escritura,Intermedio,cami_o,n,camino
+167,Escritura,Intermedio,_rente,f,frente
+168,Escritura,Intermedio,_uera,f,fuera
+169,Escritura,Intermedio,_ino,f,fino
+170,Escritura,Intermedio,_ilo,h,hilo
+171,Escritura,Avanzado,e_terior,x,exterior
+172,Escritura,Avanzado,e_traño,x,extraño
+173,Escritura,Avanzado,e_plicar,x,explicar
+174,Escritura,Avanzado,e_presión,x,expresión
+175,Escritura,Avanzado,e_periencia,x,experiencia
+176,Escritura,Avanzado,e_tremidad,x,extremidad
+177,Escritura,Avanzado,e_traordinario,x,extraordinario
+178,Escritura,Avanzado,e_travagante,x,extravagante
+179,Escritura,Avanzado,e_tranjero,x,extranjero
+180,Escritura,Avanzado,e_traterrestre,x,extraterrestre
+181,Comprension,Basico,�Qué es más grande un elefante o un ratón?,elefante,ratón|elefante|gato
+182,Comprension,Basico,�Cuántas ruedas tiene un coche?,4,2|4|8
+183,Comprension,Basico,�Qué animal vuela?,pájaro,perro|pájaro|pez
+184,Comprension,Basico,�De qué color es la nieve?,blanco,negro|blanco|azul
+185,Comprension,Basico,�Qué usamos para ver?,ojos,manos|ojos|pies
+186,Comprension,Basico,�Cuál es el opuesto de día?,noche,mañana|noche|tarde
+187,Comprension,Basico,�Dónde viven las abejas?,colmena,casa|colmena|cueva
+188,Comprension,Basico,�Qué forma tiene una pelota?,redonda,cuadrada|redonda|triangular
+189,Comprension,Basico,�Cuántos lados tiene un triángulo?,3,2|3|4
+190,Comprension,Basico,�Qué animal da leche?,vaca,gallina|vaca|caballo
+191,Comprension,Intermedio,�Cuál es el femenino de 'actor'?,actriz,actora|actriz|actresa
+192,Comprension,Intermedio,�Qué palabra no es un sustantivo?,correr,mesa|perro|correr
+193,Comprension,Intermedio,�Cuál número es par?,8,7|8|9
+194,Comprension,Intermedio,�Qué estación viene después del verano?,otoño,invierno|otoño|primavera
+195,Comprension,Intermedio,�Cuál es el aumentativo de 'casa'?,casona,casita|casona|casucha
+196,Comprension,Intermedio,�Qué palabra está bien escrita?,vaca,baca|vaca|baka
+197,Comprension,Intermedio,�Cuántos meses tiene un año?,12,10|12|14
+198,Comprension,Intermedio,�Qué es un adjetivo?,describe sustantivo,acción|describe sustantivo|lugar
+199,Comprension,Intermedio,�Cuál oración es imperativa?,Cierra la puerta,�Cómo estás?|Cierra la puerta|Hace frío
+200,Comprension,Intermedio,�Qué tipo de animal es la ballena?,mamífero,pez|mamífero|reptil
+201,Comprension,Avanzado,�Cuál es el superlativo de 'bueno'?,óptimo,buenísimo|óptimo|mejor
+202,Comprension,Avanzado,�Qué es una hipérbole?,exageración,comparación|exageración|pregunta
+203,Comprension,Avanzado,�Cuál es el gentilicio de Berlín?,berlinés,berlinense|berlinés|berliniano
+204,Comprension,Avanzado,�Qué es un oxímoron?,contradicción aparente,rima|contradicción aparente|metáfora
+205,Comprension,Avanzado,�Cuál palabra es esdrújula?,teléfono,café|razón|teléfono
+206,Comprension,Avanzado,�Qué significa 'benévolo'?,bondadoso,malvado|bondadoso|indiferente
+207,Comprension,Avanzado,�Cuál es el colectivo de 'oveja'?,rebaño,manada|rebaño|jauría
+208,Comprension,Avanzado,�Qué es un gerundio?,forma verbal,sustantivo|forma verbal|adjetivo
+209,Comprension,Avanzado,�Cuál es el antónimo de 'efímero'?,perdurable,temporal|perdurable|breve
+210,Comprension,Avanzado,�Qué figura usa 'como' o 'cual'?,símil,metáfora|símil|metonimia
