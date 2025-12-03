@@ -30,7 +30,7 @@ void App::menuPrincipal(){
   int opcion;
   string user, pass;
    cout << "\n====================================\n";
-   cout << "     LEXBOT 2.0 - BIENVENIDO       \n";
+   cout << "     LEXBOT - BIENVENIDO       \n";
    cout << "====================================\n";
    cout << "1. Iniciar sesion\n";
    cout << "2. Registrarse\n";
@@ -234,9 +234,9 @@ void App::menuAnalytics(){
     int opcion;
     while (true) {
         cout << "\n--- ANALYTICS AVANZADO ---\n";
-        cout << "1. Tendencia de aprendizaje (Regresion lineal)\n";
-        cout << "2. Areas de oportunidad (Clustering)\n";
-        cout << "3. Nivel recomendado (IA Adaptativa)\n";
+        cout << "1. Tendencia de aprendizaje \n";
+        cout << "2. Areas de oportunidad \n";
+        cout << "3. Nivel recomendado\n";
         cout << "4. Racha actual\n";
         cout << "5. Estadisticas completas\n";
         cout << "6. Regresar\n";
@@ -294,7 +294,7 @@ void App::menuInfo(){
                 cout << "\n========================================" << endl;
                 cout << "           QUIENES SOMOS?" << endl;
                 cout << "========================================" << endl;
-                cout << "\nFundadores del proyecto LexBot 2.0:" << endl;
+                cout << "\nFundadores del proyecto LexBot:" << endl;
                 cout << "\nEstudiantes del area de computacion" << endl;
                 cout << "Tecnologico de Monterrey" << endl;
                 cout << "\n----------------------------------------" << endl;

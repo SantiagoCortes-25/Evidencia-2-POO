@@ -24,7 +24,7 @@ public:
         sessions = s;
     }
 
-    // ALGORITMO RETADOR 1: Calcular tendencia usando regresión lineal
+    // ALGORITMO 1: Calcular tendencia usando regresión lineal
     // Retorna la pendiente (m > 0 = mejorando, m < 0 = empeorando)
     double calculateLearningTrend(int userId, ExerciseType type) {
         vector<Session> filtered;
@@ -62,7 +62,7 @@ public:
         return m;
     }
 
-    // ALGORITMO RETADOR 2: Identificar áreas débiles
+    // ALGORITMO 2: Identificar áreas débiles
     map<ExerciseType, double> identifyWeakAreas(int userId) {
         map<ExerciseType, vector<double>> typeScores;
 
@@ -83,7 +83,7 @@ public:
         return avgScores;
     }
 
-    // ALGORITMO RETADOR 3: Predecir nivel recomendado
+    // ALGORITMO 3: Predecir nivel recomendado
     DifficultyLevel recommendNextDifficulty(int userId, ExerciseType type) {
         vector<Session> recent;
         
@@ -118,7 +118,7 @@ public:
         return DifficultyLevel::Basico;
     }
 
-    // ALGORITMO RETADOR 4: Calcular racha de días consecutivos
+    // ALGORITMO 4: Calcular racha de días consecutivos
     int calculateStreak(int userId) {
         vector<year_month_day> dates;
 
