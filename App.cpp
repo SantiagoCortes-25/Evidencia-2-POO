@@ -30,7 +30,7 @@ void App::menuPrincipal(){
   int opcion;
   string user, pass;
    cout << "\n====================================\n";
-   cout << "     LEXBOT - BIENVENIDO       \n";
+   cout << "          LEXBOT - BIENVENIDO       \n";
    cout << "====================================\n";
    cout << "1. Iniciar sesion\n";
    cout << "2. Registrarse\n";
